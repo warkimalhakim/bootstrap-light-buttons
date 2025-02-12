@@ -21,6 +21,7 @@ semua class buttons yang ada pada Bootstrap sudah bisa digunakan, ganti dengan c
 - [x] .btn-primary-light
 - [x] .btn-secondary-light
 - [x] .btn-success-light
+- [x] .btn-info-light
 - [x] .btn-warning-light
 - [x] .btn-danger-light
 - [x] .btn-w-light
