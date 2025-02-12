@@ -5,7 +5,6 @@
 /* ================================== */
 :root,
 [data-bs-theme="light"],
-:root,
 [data-bs-theme="dark"] {
   --w-white: #ffffff;
 
@@ -31,8 +30,8 @@
 
 .btn-success-light {
   color: var(--w-success) !important;
-  border-color: var(--w-light-success);
-  background-color: var(--w-light-success);
+  border-color: var(--w-light-success) !important;
+  background-color: var(--w-light-success) !important;
 }
 .btn-success-light:hover {
   color: var(--w-white) !important;
@@ -42,8 +41,8 @@
 
 .btn-primary-light {
   color: var(--w-primary) !important;
-  border-color: var(--w-primary-light);
-  background-color: var(--w-primary-light);
+  border-color: var(--w-primary-light) !important;
+  background-color: var(--w-primary-light) !important;
 }
 .btn-primary-light:hover {
   color: var(--w-primary-light) !important;
@@ -53,8 +52,8 @@
 
 .btn-warning-light {
   color: var(--w-warning) !important;
-  border-color: var(--w-warning-light);
-  background-color: var(--w-warning-light);
+  border-color: var(--w-warning-light) !important;
+  background-color: var(--w-warning-light) !important;
 }
 .btn-warning-light:hover {
   color: var(--w-warning-light) !important;
@@ -63,8 +62,8 @@
 }
 .btn-danger-light {
   color: var(--w-danger) !important;
-  border-color: var(--w-danger-light);
-  background-color: var(--w-danger-light);
+  border-color: var(--w-danger-light) !important;
+  background-color: var(--w-danger-light) !important;
 }
 .btn-danger-light:hover {
   color: var(--w-danger-light) !important;
@@ -73,8 +72,8 @@
 }
 .btn-info-light {
   color: var(--w-info) !important;
-  border-color: var(--w-info-light);
-  background-color: var(--w-info-light);
+  border-color: var(--w-info-light) !important;
+  background-color: var(--w-info-light) !important;
 }
 .btn-info-light:hover {
   color: var(--w-info-light) !important;
@@ -83,8 +82,8 @@
 }
 .btn-secondary-light {
   color: var(--w-secondary-inverse) !important;
-  border-color: var(--w-secondary);
-  background-color: var(--w-secondary);
+  border-color: var(--w-secondary) !important;
+  background-color: var(--w-secondary) !important;
 }
 .btn-secondary-light:hover {
   color: var(--w-secondary) !important;
@@ -93,8 +92,8 @@
 }
 .btn-w-light {
   color: var(--w-secondary-inverse) !important;
-  border-color: var(--w-secondary-light);
-  background-color: var(--w-secondary-light);
+  border-color: var(--w-secondary-light) !important;
+  background-color: var(--w-secondary-light) !important;
 }
 .btn-w-light:hover {
   color: var(--w-secondary-inverse) !important;
